@@ -1,0 +1,5 @@
+Flask
+numpy
+
+# using lightweight version of opencv
+opencv-python-headless
